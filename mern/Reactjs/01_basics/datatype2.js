@@ -111,7 +111,7 @@ num1=num2=num3= 2+2
 console.log(num1); //4
 
 let gamecounter =100
-gamecounter ++; //post increment //pre increment
+gamecounter ++; //post increment
 console.log(gamecounter); //101
 ++gamecounter; //pre increment
 console.log(gamecounter); //102
