@@ -1,0 +1,1 @@
+{"name":"Local: armstrong","url":"/home/ashant/Desktop/75dayplan/adsa/Day1/armstrong.py","tests":[{"id":1747840683766,"input":"153","output":"True"},{"id":1747840693696,"input":"64","output":"False"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day1/armstrong.py","group":"local","local":true}

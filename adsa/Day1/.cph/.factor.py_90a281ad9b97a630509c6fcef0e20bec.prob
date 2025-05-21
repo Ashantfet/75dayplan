@@ -1,0 +1,1 @@
+{"name":"Local: factor","url":"/home/ashant/Desktop/75dayplan/adsa/Day1/factor.py","tests":[{"id":1747841646650,"input":"36","output":"[1, 2, 3, 4, 6, 9, 12, 18, 36]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day1/factor.py","group":"local","local":true}

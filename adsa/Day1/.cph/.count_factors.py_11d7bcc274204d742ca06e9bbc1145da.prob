@@ -1,0 +1,1 @@
+{"name":"Local: count_factors","url":"/home/ashant/Desktop/75dayplan/adsa/Day1/count_factors.py","tests":[{"id":1747846812529,"input":"5","output":"2"},{"id":1747846820477,"input":"25","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day1/count_factors.py","group":"local","local":true}
