@@ -52,3 +52,24 @@ console.log(typeof undefined); //undefined
 console.log(typeof Symbol("I am a symbol")); //symbol
 //non primitive return type is object only function object function so returns as function
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//stack and heap memory
+//stack memory => primitive data types copies the value
+//heap memory => non primitive data types refrences the value
+let myname = "Ashant"; //stack memory
+let myname2 = myname; //stack memory
+console.log(myname); //Ashant
+console.log(myname2); //Ashant
+myname2 = "John"; //stack memory
+console.log(myname); //Ashant
+console.log(myname2); //John
+let user1 = {name: "Ashant", age: 23}; //heap memory
+let user2 = user1; //heap memory
+console.log(user1); //{name: "Ashant", age: 23}
+console.log(user2); //{name: "Ashant", age: 23}
+user2.name = "John"; //heap memory
+console.log(user1); //{name: "John", age: 23}
+console.log(user2); //{name: "John", age: 23}
