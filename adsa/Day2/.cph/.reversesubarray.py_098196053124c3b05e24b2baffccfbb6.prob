@@ -1,0 +1,1 @@
+{"name":"Local: reversesubarray","url":"/home/ashant/Desktop/75dayplan/adsa/Day2/reversesubarray.py","tests":[{"id":1747940455713,"input":"1 2 3 4 5 6 7\n2 4","output":"1 4 3 2 5 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day2/reversesubarray.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sumofseries","url":"/home/ashant/Desktop/75dayplan/adsa/Day2/sumofseries.py","tests":[{"id":1747938138035,"input":"5","output":"225"},{"id":1747938159545,"input":"256","output":"1082146816"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day2/sumofseries.py","group":"local","local":true}
