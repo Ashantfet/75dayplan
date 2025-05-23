@@ -1,0 +1,1 @@
+{"name":"Local: freqcount","url":"/home/ashant/Desktop/75dayplan/adsa/Day3/freqcount.py","tests":[{"id":1748022848612,"input":"1 2 4 1 2 4 \n1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day3/freqcount.py","group":"local","local":true}

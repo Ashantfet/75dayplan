@@ -13,4 +13,4 @@ class Solution:
         return result
 x = int(input())
 ob = Solution()
-print(ob.factorialNumbers(x))
+print(ob.factorialNumbers(x)) 
