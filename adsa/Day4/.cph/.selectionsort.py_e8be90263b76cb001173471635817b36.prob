@@ -1,0 +1,1 @@
+{"name":"Local: selectionsort","url":"/home/ashant/Desktop/75dayplan/adsa/Day4/selectionsort.py","tests":[{"id":1748081787904,"input":"4 1 3 9 7","output":"1 3 4 7 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day4/selectionsort.py","group":"local","local":true}
