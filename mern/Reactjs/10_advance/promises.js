@@ -101,3 +101,9 @@ fetch('https://api.github.com/users/hiteshchoudhary')
     console.log(data);
     
 })
+// fetch API is used to make HTTP requests (GET/POST/etc.) in React to interact with backend servers or APIs
+
+//fetch queue micro task queue priority queue highest priority given to it for running so it is giving result earlier than all other program
+
+//response =fetch("something")  :- one go for taking making data ie empty data  and other go to webrowser/node to bring network request if correct goes to data to specify the memory which then takes it to the global memory which will store response otherwise throws error
+
