@@ -1,0 +1,1 @@
+{"name":"Local: findunion","url":"/home/ashant/Desktop/75dayplan/adsa/Day5/findunion.py","tests":[{"id":1749559562162,"input":"1 2 3 4 5\n1 2 3","output":"[1, 2, 3, 4, 5]\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day5/findunion.py","group":"local","local":true}

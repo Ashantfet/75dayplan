@@ -1,0 +1,1 @@
+{"name":"Local: LinearSearch","url":"/home/ashant/Desktop/75dayplan/adsa/Day5/LinearSearch.py","tests":[{"id":1749557513937,"input":"1 2 3 4\n3","output":"2"},{"id":1749557570690,"input":"12 18 17 15 11 8 6\n7","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day5/LinearSearch.py","group":"local","local":true}
