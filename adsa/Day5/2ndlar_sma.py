@@ -1,4 +1,4 @@
-def getSecondOrderElements(n: int, arr: [int]) -> [int]:
+def getSecondOrderElements(n: int, arr: list[int]) -> list[int]:
     
     maxi = arr[0]
     mini = arr[0]
