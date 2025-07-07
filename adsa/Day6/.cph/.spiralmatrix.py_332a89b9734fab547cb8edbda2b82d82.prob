@@ -1,0 +1,1 @@
+{"name":"Local: spiralmatrix","url":"/home/ashant/Desktop/75dayplan/adsa/Day6/spiralmatrix.py","tests":[{"id":1751926437225,"input":"","output":"[1, 2, 3, 6, 9, 8, 7, 4, 5]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day6/spiralmatrix.py","group":"local","local":true}

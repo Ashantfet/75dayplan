@@ -1,0 +1,1 @@
+{"name":"Local: sorted_square","url":"/home/ashant/Desktop/75dayplan/adsa/Day6/sorted_square.py","tests":[{"id":1751901306521,"input":"5\n-1 5 6 0 7","output":"0 1 25 36 49"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day6/sorted_square.py","group":"local","local":true}

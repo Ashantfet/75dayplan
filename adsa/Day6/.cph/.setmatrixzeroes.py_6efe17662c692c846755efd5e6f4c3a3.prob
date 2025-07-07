@@ -1,0 +1,1 @@
+{"name":"Local: setmatrixzeroes","url":"/home/ashant/Desktop/75dayplan/adsa/Day6/setmatrixzeroes.py","tests":[{"id":1751925734009,"input":"","output":"[1, 0, 1]\n[0, 0, 0]\n[1, 0, 1]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day6/setmatrixzeroes.py","group":"local","local":true}

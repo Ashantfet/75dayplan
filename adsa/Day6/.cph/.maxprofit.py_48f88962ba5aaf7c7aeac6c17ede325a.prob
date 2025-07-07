@@ -1,0 +1,1 @@
+{"name":"Local: maxprofit","url":"/home/ashant/Desktop/75dayplan/adsa/Day6/maxprofit.py","tests":[{"id":1751909645314,"input":"7 1 5 3 6 4","output":"5"},{"id":1751909665687,"input":"7 6 5 4 3 1 ","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day6/maxprofit.py","group":"local","local":true}
