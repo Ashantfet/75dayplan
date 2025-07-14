@@ -1,0 +1,1 @@
+{"name":"Local: binarysearch","url":"/home/ashant/Desktop/75dayplan/adsa/Day7/binarysearch.py","tests":[{"id":1752515226184,"input":"-1 0 3 5 9 12\n9","output":"4"},{"id":1752515261701,"input":"5\n5","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day7/binarysearch.py","group":"local","local":true}
