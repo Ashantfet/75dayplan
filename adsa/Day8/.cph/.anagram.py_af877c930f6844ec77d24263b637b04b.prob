@@ -1,0 +1,1 @@
+{"name":"Local: anagram","url":"/home/ashant/Desktop/75dayplan/adsa/Day8/anagram.py","tests":[{"id":1752598476707,"input":"anagram\nnagaram","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day8/anagram.py","group":"local","local":true}

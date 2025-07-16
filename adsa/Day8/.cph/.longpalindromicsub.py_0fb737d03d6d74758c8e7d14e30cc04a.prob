@@ -1,0 +1,1 @@
+{"name":"Local: longpalindromicsub","url":"/home/ashant/Desktop/75dayplan/adsa/Day8/longpalindromicsub.py","tests":[{"id":1752655540220,"input":"babad","output":"aba"},{"id":1752655612913,"input":"bbd","output":"bb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day8/longpalindromicsub.py","group":"local","local":true}
