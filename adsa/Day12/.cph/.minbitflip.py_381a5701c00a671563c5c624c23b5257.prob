@@ -1,0 +1,1 @@
+{"name":"Local: minbitflip","url":"/home/ashant/Desktop/75dayplan/adsa/Day12/minbitflip.py","tests":[{"id":1753172641375,"input":"10 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day12/minbitflip.py","group":"local","local":true}
