@@ -1,0 +1,1 @@
+{"name":"Local: swap","url":"/home/ashant/Desktop/75dayplan/adsa/Day11/swap.py","tests":[{"id":1753162540351,"input":"5 12","output":"12 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day11/swap.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: divide","url":"/home/ashant/Desktop/75dayplan/adsa/Day11/divide.py","tests":[{"id":1753166068099,"input":"10 -2","output":"-5"},{"id":1753166088711,"input":"12345 12","output":"1028"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day11/divide.py","group":"local","local":true}

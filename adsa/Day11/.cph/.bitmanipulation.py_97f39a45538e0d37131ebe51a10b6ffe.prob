@@ -1,0 +1,1 @@
+{"name":"Local: bitmanipulation","url":"/home/ashant/Desktop/75dayplan/adsa/Day11/bitmanipulation.py","tests":[{"id":1753076665602,"input":"70\n3","output":"1 70 66"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day11/bitmanipulation.py","group":"local","local":true}
