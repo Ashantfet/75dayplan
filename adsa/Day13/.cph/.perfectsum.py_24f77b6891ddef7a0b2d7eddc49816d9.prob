@@ -1,0 +1,1 @@
+{"name":"Local: perfectsum","url":"/home/ashant/Desktop/75dayplan/adsa/Day13/perfectsum.py","tests":[{"id":1753253570624,"input":"0 10 0\n0","output":"4"},{"id":1753253597425,"input":"5 2 3 10 6 8\n10","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day13/perfectsum.py","group":"local","local":true}

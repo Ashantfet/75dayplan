@@ -1,0 +1,1 @@
+{"name":"Local: subsets","url":"/home/ashant/Desktop/75dayplan/adsa/Day13/subsets.py","tests":[{"id":1753252345989,"input":"1 2 3","output":"[[1, 2, 3], [1, 2], [1, 3], [1], [2, 3], [2], [3], []]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day13/subsets.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: subsetsubseq","url":"/home/ashant/Desktop/75dayplan/adsa/Day13/subsetsubseq.py","tests":[{"id":1753335568354,"input":"17 18 11 6 4 2\n6","output":"[[4, 2], [6]]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day13/subsetsubseq.py","group":"local","local":true}
