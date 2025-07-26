@@ -1,0 +1,1 @@
+{"name":"Local: betterstrings","url":"/home/ashant/Desktop/75dayplan/adsa/Day14/betterstrings.py","tests":[{"id":1753525874580,"input":"gfg\nggg","output":"gfg"},{"id":1753525887293,"input":"a\nb","output":"a"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day14/betterstrings.py","group":"local","local":true}
