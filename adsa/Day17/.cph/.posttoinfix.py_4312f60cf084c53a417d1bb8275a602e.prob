@@ -1,0 +1,1 @@
+{"name":"Local: posttoinfix","url":"/home/ashant/Desktop/75dayplan/adsa/Day17/posttoinfix.py","tests":[{"id":1753988220766,"input":"abcd^e-fgh*+^*i-+\n","output":"(a+((b*(((c^d)-e)^(f+(g*h))))-i))\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day17/posttoinfix.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: infixtopostfix","url":"/home/ashant/Desktop/75dayplan/adsa/Day17/infixtopostfix.py","tests":[{"id":1753987842431,"input":"a+b*(c^d-e)^(f+g*h)-i","output":"abcd^e-fgh*+^*+i-\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day17/infixtopostfix.py","group":"local","local":true}

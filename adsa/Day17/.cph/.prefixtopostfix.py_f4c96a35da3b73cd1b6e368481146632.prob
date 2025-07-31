@@ -1,0 +1,1 @@
+{"name":"Local: prefixtopostfix","url":"/home/ashant/Desktop/75dayplan/adsa/Day17/prefixtopostfix.py","tests":[{"id":1753988028869,"input":"+a-*b^-^cde+f*ghi\n","output":"abcd^e-fgh*+^*i-+\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day17/prefixtopostfix.py","group":"local","local":true}

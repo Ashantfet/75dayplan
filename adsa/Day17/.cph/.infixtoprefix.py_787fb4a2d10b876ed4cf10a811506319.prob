@@ -1,0 +1,1 @@
+{"name":"Local: infixtoprefix","url":"/home/ashant/Desktop/75dayplan/adsa/Day17/infixtoprefix.py","tests":[{"id":1753987897814,"input":"a+b*(c^d-e)^(f+g*h)-i","output":"+a-*b^-^cde+f*ghi\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day17/infixtoprefix.py","group":"local","local":true}

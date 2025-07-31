@@ -1,0 +1,1 @@
+{"name":"Local: posttopre","url":"/home/ashant/Desktop/75dayplan/adsa/Day17/posttopre.py","tests":[{"id":1753988172930,"input":"abcd^e-fgh*+^*i-+\n","output":"+a-*b^-^cde+f*ghi\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day17/posttopre.py","group":"local","local":true}
