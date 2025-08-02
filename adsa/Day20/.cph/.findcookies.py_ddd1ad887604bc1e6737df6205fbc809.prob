@@ -1,0 +1,1 @@
+{"name":"Local: findcookies","url":"/home/ashant/Desktop/75dayplan/adsa/Day20/findcookies.py","tests":[{"id":1754154417834,"input":"2 6 8 1 4\n4 2 7 1 2 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day20/findcookies.py","group":"local","local":true}
