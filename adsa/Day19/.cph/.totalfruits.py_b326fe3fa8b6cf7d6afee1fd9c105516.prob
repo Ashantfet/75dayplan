@@ -1,0 +1,1 @@
+{"name":"Local: totalfruits","url":"/home/ashant/Desktop/75dayplan/adsa/Day19/totalfruits.py","tests":[{"id":1754134814703,"input":"3 3 3 1 2 1 1 2 3 3  4","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day19/totalfruits.py","group":"local","local":true}
