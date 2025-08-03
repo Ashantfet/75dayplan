@@ -1,0 +1,1 @@
+{"name":"Local: maximummeetings","url":"/home/ashant/Desktop/75dayplan/adsa/Day21/maximummeetings.py","tests":[{"id":1754243699545,"input":"0 3 1 6 7 11\n6 5 2 8 10 15","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day21/maximummeetings.py","group":"local","local":true}
