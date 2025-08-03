@@ -1,0 +1,1 @@
+{"name":"Local: jump","url":"/home/ashant/Desktop/75dayplan/adsa/Day21/jump.py","tests":[{"id":1754245179668,"input":"2 3 1 4 1 1 1 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day21/jump.py","group":"local","local":true}

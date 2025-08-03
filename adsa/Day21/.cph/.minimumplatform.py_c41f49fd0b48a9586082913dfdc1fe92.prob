@@ -1,0 +1,1 @@
+{"name":"Local: minimumplatform","url":"/home/ashant/Desktop/75dayplan/adsa/Day21/minimumplatform.py","tests":[{"id":1754245857396,"input":"900 940 950 1100 1500 1800\n910 1200 1120 1130 1900 2000","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day21/minimumplatform.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: canjump","url":"/home/ashant/Desktop/75dayplan/adsa/Day21/canjump.py","tests":[{"id":1754244494516,"input":"2 3 1 1 4","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day21/canjump.py","group":"local","local":true}
