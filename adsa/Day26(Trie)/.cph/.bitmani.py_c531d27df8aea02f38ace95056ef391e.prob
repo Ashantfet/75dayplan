@@ -1,0 +1,1 @@
+{"name":"Local: bitmani","url":"/home/ashant/Desktop/75dayplan/adsa/Day26(Trie)/bitmani.py","tests":[{"id":1755015968587,"input":"1 2\n3 4\n5 6","output":"3\n1\n38"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day26(Trie)/bitmani.py","group":"local","local":true}

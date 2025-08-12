@@ -1,0 +1,1 @@
+{"name":"Local: maximizexor","url":"/home/ashant/Desktop/75dayplan/adsa/Day26(Trie)/maximizexor.py","tests":[{"id":1755016329479,"input":"0 1 2 3 4\n3\n3 1\n1 3 \n5 6","output":"3 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day26(Trie)/maximizexor.py","group":"local","local":true}
