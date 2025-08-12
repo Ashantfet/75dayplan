@@ -1,0 +1,1 @@
+{"name":"Local: updatematrix","url":"/home/ashant/Desktop/75dayplan/adsa/Day25(graph2)/updatematrix.py","tests":[{"id":1754850750630,"input":"3\n0 0 0\n0 1 0\n1 1 1","output":"0 0 0\n0 1 0\n1 2 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day25(graph2)/updatematrix.py","group":"local","local":true}

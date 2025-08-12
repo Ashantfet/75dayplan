@@ -1,0 +1,1 @@
+{"name":"Local: wordladder","url":"/home/ashant/Desktop/75dayplan/adsa/Day25(graph2)/wordladder.py","tests":[{"id":1754854423759,"input":"hit\ncog\nhot dot dog lot log cog","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day25(graph2)/wordladder.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: fillcolor","url":"/home/ashant/Desktop/75dayplan/adsa/Day24(graph)/fillcolor.py","tests":[{"id":1754726759322,"input":"","output":"[[2, 2, 2], [2, 2, 0], [2, 0, 1]]\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day24(graph)/fillcolor.py","group":"local","local":true}
