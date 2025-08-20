@@ -1,0 +1,1 @@
+{"name":"Local: topologicalsortdfs","url":"/home/ashant/Desktop/75dayplan/adsa/Day27(graphinC++)/topologicalsortdfs.cpp","tests":[{"id":1755646988972,"input":"","output":"0 1 2 3 4 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day27(graphinC++)/topologicalsortdfs.cpp","group":"local","local":true}
