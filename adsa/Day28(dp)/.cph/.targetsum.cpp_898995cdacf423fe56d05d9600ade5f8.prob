@@ -1,0 +1,1 @@
+{"name":"Local: targetsum","url":"/home/ashant/Desktop/75dayplan/adsa/Day28(dp)/targetsum.cpp","tests":[{"id":1756206528570,"input":"4 3\n1 2 3 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day28(dp)/targetsum.cpp","group":"local","local":true}
