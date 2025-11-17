@@ -1,0 +1,1 @@
+{"name":"Local: longestpalindromic","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/longestpalindromic.cpp","tests":[{"id":1757499919148,"input":"2\nanajjajajajjajaas\naaajajajajaa","output":"13\n11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/longestpalindromic.cpp","group":"local","local":true}

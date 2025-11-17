@@ -1,0 +1,1 @@
+{"name":"Local: rodcuttingprob","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/rodcuttingprob.cpp","tests":[{"id":1757499396361,"input":"2\n5\n2 5 7 8 10\n8\n3 5 8 9 10 17 17 20","output":"12\n24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/rodcuttingprob.cpp","group":"local","local":true}

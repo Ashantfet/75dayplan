@@ -1,0 +1,1 @@
+{"name":"Local: lcssubstr","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/lcssubstr.cpp","tests":[{"id":1757499826870,"input":"2\nabcdefkl sjhsjsikoala\nahjakakak klakakkakakak","output":"1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/lcssubstr.cpp","group":"local","local":true}

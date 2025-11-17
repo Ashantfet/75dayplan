@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/lcs.cpp","tests":[{"id":1757499476072,"input":"2\nqbcde abc\nabc def","output":"2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/lcs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: editdist","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/editdist.cpp","tests":[{"id":1757500744765,"input":"2\nabhshsbs\nabvahjha\nakjkaka\najkak","output":"5\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/editdist.cpp","group":"local","local":true}

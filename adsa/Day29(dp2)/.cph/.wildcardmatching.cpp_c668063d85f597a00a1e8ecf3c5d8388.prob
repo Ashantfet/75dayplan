@@ -1,0 +1,1 @@
+{"name":"Local: wildcardmatching","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/wildcardmatching.cpp","tests":[{"id":1757500869012,"input":"2\nabc?d\nabcdd\n**abcd\nabcd","output":"true\ntrue"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/wildcardmatching.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: printlcs","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/printlcs.cpp","tests":[{"id":1757499661813,"input":"2\nabcdef bcdej\nabc def","output":"bcde\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/printlcs.cpp","group":"local","local":true}

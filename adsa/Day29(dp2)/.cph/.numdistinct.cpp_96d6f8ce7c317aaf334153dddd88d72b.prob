@@ -1,0 +1,1 @@
+{"name":"Local: numdistinct","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/numdistinct.cpp","tests":[{"id":1757500431734,"input":"2\nrabbbit\nrabbit\nbabgbag\nbag","output":"3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/numdistinct.cpp","group":"local","local":true}

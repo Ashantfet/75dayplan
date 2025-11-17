@@ -1,0 +1,1 @@
+{"name":"Local: maxprofit","url":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/maxprofit.cpp","tests":[{"id":1757501008359,"input":"2\n6\n7 1 5 6 3 4\n5\n7 6 4 3 1","output":"5\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashant/Desktop/75dayplan/adsa/Day29(dp2)/maxprofit.cpp","group":"local","local":true}
