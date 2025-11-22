@@ -4,3 +4,7 @@ env
 dataset
 *.pth.tar
 __pycache__
+*.csv
+*.ipynb_checkpoints
+*.log
+cats_dogs_resized
