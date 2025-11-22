@@ -2,3 +2,5 @@ env
 !.env.example
 .vscode
 dataset
+*.pth.tar
+__pycache__
