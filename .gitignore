@@ -10,3 +10,8 @@ __pycache__
 cats_dogs_resized
 flickr8k
 augmented_images
+.env
+*.pdf
+*.sqlite3
+models/
+*.wav
