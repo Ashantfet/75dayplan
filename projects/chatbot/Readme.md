@@ -259,18 +259,6 @@ pip install sounddevice
 
 ## 👨‍💻 Author
 
-**Developed By:** Ashant Kumar
-**Project:** Full Offline AI Assistant with Voice + RAG + Code + PDF
-
----
-
-## ✅ Final Status
-
-✅ General Chat – Working
-✅ PDF QA (RAG) – Working
-✅ Voice Input – Working
-✅ Code Assistant – Working
-✅ Clean PDF Export – Working
-✅ Fully Offline AI Assistant – Completed Successfully
-
+* **Developed By:** Ashant Kumar
+* **Project:** Full Offline AI Assistant with Voice + RAG + Code + PDF
 ---
