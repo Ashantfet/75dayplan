@@ -15,3 +15,5 @@ augmented_images
 *.sqlite3
 models/
 *.wav
+chroma_db/
+*.txt
