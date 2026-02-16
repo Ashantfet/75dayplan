@@ -17,3 +17,5 @@ models/
 *.wav
 chroma_db/
 *.txt
+*.png
+*.jpg
