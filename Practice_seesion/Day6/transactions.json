@@ -1,0 +1,32 @@
+[
+    {
+        "transaction_id": 101,
+        "customer_id": 1,
+        "amount": 5000,
+        "date": "2024-01-01"
+    },
+    {
+        "transaction_id": 102,
+        "customer_id": 2,
+        "amount": 2500,
+        "date": "2024-01-02"
+    },
+    {
+        "transaction_id": 103,
+        "customer_id": 3,
+        "amount": "invalid",
+        "date": "2024-01-03"
+    },
+    {
+        "transaction_id": 104,
+        "customer_id": 1,
+        "amount": 1200,
+        "date": "2024-01-04"
+    },
+    {
+        "transaction_id": 104,
+        "customer_id": 1,
+        "amount": 1200,
+        "date": "2024-01-04"
+    }
+]
