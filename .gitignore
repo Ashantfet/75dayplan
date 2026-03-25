@@ -19,3 +19,4 @@ chroma_db/
 *.txt
 *.png
 *.jpg
+*/data/FashionMNIST
